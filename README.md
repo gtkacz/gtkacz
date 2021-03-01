@@ -1,1 +1,1 @@
-[![gtkacz's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtkacz)](https://github.com/gtkacz/github-readme-stats&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)
+[![gtkacz's GitHub stats](https://github-readme-stats.vercel.app/api?username=gtkacz)](https://github.com/gtkacz/github-readme-stats?count_private=true?show_icons=true?theme=tokyonight?include_all_commits=true)
