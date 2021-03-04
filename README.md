@@ -20,4 +20,4 @@ class GabrielTkacz:
              
 ```
 
-<a href="https://www.linkedin.com/in/gabriel-tkacz-7877a8194/"><img src="https://github-readme-stats.vercel.app/api?username=gtkacz&theme=nightmode&count_private=true&show_icons=true&hide=stars&include_all_commits=true" width="500" /></a>
+<a href="https://www.linkedin.com/in/gabriel-tkacz-7877a8194/"><img src="https://github-readme-stats.vercel.app/api?username=gtkacz&bg_color=0D1117&title_color=56A1F7&text_color=8B949E&icon_color=56A1F7&mode&count_private=true&show_icons=true&hide=stars&include_all_commits=true" width="500" /></a>
