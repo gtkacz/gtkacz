@@ -29,7 +29,7 @@ class GabrielTkacz:
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
-  <br/>
+  <br align="center">
     <img alt="gtkacz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gtkacz&show_icons=true&count_private=true&bg_color=0D1117&title_color=56A1F7&text_color=C9D1D9&icon_color=F9826C&hide_border=true" />
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages on my personal repos and doesn't reflect experience or skill level.
