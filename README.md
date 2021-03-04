@@ -1,6 +1,6 @@
 <p align="center">
  <h2 align="center"> Hi, I'm Gabriel Tkacz! <img src="https://media.giphy.com/media/SuZY20qLNE3Hq/giphy.gif" width="50"></h2>
- <p align="center"><em>Computer Enginneering undergraduate at <a href="https://www.insper.edu.br/en/">Insper</a></em></p>
+ <p align="center"><em>Computer Enginneering undergraduate at <a href="https://www.insper.edu.br/en/">Insper Institute of Education and Research</a>.</em></p>
 </p>
 
 <p align="center">
