@@ -11,12 +11,12 @@
 class GabrielTkacz:
       def __init__(self):
             self.languages = {'portuguese': 'native',
-                            'english': 'completely fluent',
-                            'spanish': 'elementary',
-                            'hebrew': 'elementary'
-                           }
+                              'english': 'completely fluent',
+                              'spanish': 'elementary',
+                              'hebrew': 'elementary'
+                             }
                            
-             self.coding_languages = ['Python', 'CSS/HTML', 'Java', 'Assembly', 'VHDL', ]
+            self.coding_languages = ['Python', 'CSS/HTML', 'Java', 'Assembly', 'VHDL', ]
              
 ```
 
