@@ -7,10 +7,9 @@
 <img alt="My Profile View" src="https://gpvc.arturio.dev/gtkacz" />
 </p>
 
-<h2 align="center">
-[![Linkedin: gabrieltkacz](https://img.shields.io/badge/-gabrieltkacz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-tkacz-7877a8194//)](https://www.linkedin.com/in/gabriel-tkacz-7877a8194/)
-[![GitHub Gabriel](https://img.shields.io/github/followers/gtkacz?label=follow&style=social)](https://github.com/gtkacz)
-</h2>
+<p align="center">
+<a href="https://www.linkedin.com/in/gabriel-tkacz-7877a8194/"><img alt="My LinkedIn" src="https://img.shields.io/badge/-gabrieltkacz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-tkacz-7877a8194//" /></a>
+</p>
 
 ```python
 class GabrielTkacz:
