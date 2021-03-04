@@ -1,11 +1,11 @@
-<h2> Hi, I'm Gabriel Tkacz! <img src="https://media.giphy.com/media/SuZY20qLNE3Hq/giphy.gif" width="50"></h2>
+<p align="center">
+ <h2 align="center">Gabriel - @gtkacz</h2>
+ <p align="center">Computer enginnering undergraduate</p>
+</p>
 
-<p><em>Computer Enginneering undergraduate at <a href="https://www.insper.edu.br/en/">Insper</a></em></p>
-
-[![Linkedin: gabrieltkacz](https://img.shields.io/badge/-gabrieltkacz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-tkacz-7877a8194//)](https://www.linkedin.com/in/gabriel-tkacz-7877a8194/)
-[![GitHub Gabriel](https://img.shields.io/github/followers/gtkacz?label=follow&style=social)](https://github.com/gtkacz)
-
-### A little more about me...  
+<p align="center">
+<img alt="Profile View" src="https://gpvc.arturio.dev/gtkacz" />
+</p>
 
 ```python
 class GabrielTkacz:
@@ -19,5 +19,15 @@ class GabrielTkacz:
             self.coding_languages = ['Python', 'CSS/HTML', 'Java', 'Assembly', 'VHDL', ]    
 ```
 
+## Github Stats
 
-<a href="https://www.linkedin.com/in/gabriel-tkacz-7877a8194/"><img src="https://github-readme-stats.vercel.app/api?username=gtkacz&bg_color=0D1117&title_color=56A1F7&text_color=C9D1D9&icon_color=F9826C&mode&count_private=true&show_icons=true&hide=stars&include_all_commits=true" width="500" /></a>
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <img alt="gtkacz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gtkacz&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img alt="gtkacz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtkacz&langs_count=6&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
+
+<img alt="gtkacz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gtkacz&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
