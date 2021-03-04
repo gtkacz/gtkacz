@@ -10,11 +10,14 @@
 ```python
 class GabrielTkacz:
       def __init__(self):
-            self.languages={'portuguese': 'native',
+            self.languages = {'portuguese': 'native',
                             'english': 'completely fluent',
                             'spanish': 'elementary',
                             'hebrew': 'elementary'
                            }
+                           
+             self.coding_languages = ['Python', 'CSS/HTML', 'Java', 'Assembly', 'VHDL', ]
+             '\n'
 ```
 
 <a href="https://www.linkedin.com/in/gabriel-tkacz-7877a8194/"><img src="https://github-readme-stats.vercel.app/api?username=gtkacz&theme=vision-friendly-dark&count_private=true&show_icons=true&hide=stars&include_all_commits=true" width="100%" /></a>
