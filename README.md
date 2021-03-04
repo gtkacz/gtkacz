@@ -14,6 +14,8 @@
 ```python
 class GabrielTkacz:
       def __init__(self):
+            self.hometown = "São Paulo, Brazil"
+            self.age = 20
             self.languages = {'portuguese': 'native',
                               'english':    'completely fluent',
                               'spanish':    'elementary',
