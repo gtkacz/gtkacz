@@ -22,7 +22,7 @@ class GabrielTkacz:
                               'hebrew':     'elementary'
                              }
                            
-            self.coding_languages = ['Python', 'CSS/HTML', 'Java', 'Assembly', 'VHDL', 'Matlab']    
+            self.coding_languages = ['Python', 'CSS/HTML', 'Java', 'VHDL', 'Matlab']    
 ```
 
 ## GitHub Stats
