@@ -16,7 +16,7 @@ class GabrielTkacz:
                               'hebrew':     'elementary'
                              }
                            
-            self.coding_languages = ['Python', 'CSS/HTML', 'Java', 'Assembly', 'VHDL', 'C']    
+            self.coding_languages = ['Python', 'CSS/HTML', 'Java', 'Assembly', 'C']    
 ```
 
 
