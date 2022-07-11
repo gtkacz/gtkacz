@@ -1,7 +1,7 @@
 <p align="center">
  <h2 align="center"> Hi, I'm Gabriel Mitelman Tkacz! <img src="https://media.giphy.com/media/SuZY20qLNE3Hq/giphy.gif" width="50"></h2>
  <p align="center"><em>Web Developer at <a href="https://scandiweb.com/team">Scandiweb</a>.</em></p>
- <p align="center"><em>Computer Enginneering undergraduate at <a href="https://www.insper.edu.br/en/">Insper Institute of Education and Research</a>.</em></p>
+ <p align="center"><em>Computer Science undergraduate at <a href="https://www.mackenzie.br/">Mackenzie Institute</a>.</em></p>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 class GabrielTkacz:
       def __init__(self):
             self.hometown = "São Paulo, Brazil"
-            self.age = 20
+            self.age = 21
             self.languages = {'portuguese': 'native',
                               'english':    'completely fluent',
                               'spanish':    'elementary',
