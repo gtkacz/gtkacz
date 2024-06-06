@@ -1,7 +1,7 @@
 <p align="center">
  <h2 align="center"> Hi, I'm Gabriel Mitelman Tkacz! <img src="https://media.giphy.com/media/SuZY20qLNE3Hq/giphy.gif" width="50"></h2>
- <p align="center"><em>Web Developer at <a href="https://scandiweb.com/team">Scandiweb</a>.</em></p>
- <p align="center"><em>Computer Science undergraduate at <a href="https://www.mackenzie.br/">Mackenzie Institute</a>.</em></p>
+ <p align="center"><em>Software Engineer at Libra Energia.</em></p>
+ <p align="center"><em>Master's student at Mackenzie University.</em></p>
 </p>
 
 <p align="center">
@@ -11,20 +11,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/gabriel-tkacz-7877a8194/"><img alt="My LinkedIn" src="https://img.shields.io/badge/-gabrieltkacz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-tkacz-7877a8194//" /></a>
 </p>
-
-```python
-class GabrielTkacz:
-      def __init__(self):
-            self.hometown = "São Paulo, Brazil"
-            self.age = 21
-            self.languages = {'portuguese': 'native',
-                              'english':    'completely fluent',
-                              'spanish':    'elementary',
-                              'hebrew':     'elementary'
-                             }
-                           
-            self.coding_languages = ['Python', 'C', 'Java', 'javascript', 'VHDL', 'Matlab', 'CSS/HTML', 'PHP']    
-```
 
 ## GitHub Stats
 
