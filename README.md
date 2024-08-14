@@ -21,9 +21,10 @@
 <p align="center">
  <img alt="gtkacz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gtkacz&show_icons=true&count_private=true&bg_color=0D1117&title_color=56A1F7&text_color=C9D1D9&icon_color=F9826C&hide_border=true" />
  <img alt="gtkacz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtkacz&langs_count=6&layout=compact&bg_color=0D1117&title_color=56A1F7&text_color=C9D1D9&icon_color=F9826C&hide_border=true" />
- <b>Note:</b> Top languages is only a metric of the languages on my personal repos and doesn't reflect experience or skill level.
+ <small><b>Note:</b> Top languages is only a metric of the languages on my personal repos and doesn't reflect experience or skill level.</small>
 
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gtkacz&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+ <img src="https://github-profile-trophy.vercel.app/?username=gtkacz&theme=darkhub" />
 </p>
 
 
