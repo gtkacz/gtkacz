@@ -5,24 +5,25 @@
 </p>
 
 <p align="center">
-<img alt="My Profile View" src="https://gpvc.arturio.dev/gtkacz" />
-</p>
-
-<p align="center">
 <a href="https://www.linkedin.com/in/gtkacz/"><img alt="My LinkedIn" src="https://img.shields.io/badge/-gabrieltkacz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gtkacz//" /></a>
 </p>
 
 ## GitHub Stats
 
-<details align="center"> 
-<!--   <summary>💻 GitHub Profile Stats</summary>
+<!-- <details align="center"> 
+  <summary>💻 GitHub Profile Stats</summary>
   <br/ align="center">
     <img alt="gtkacz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gtkacz&show_icons=true&count_private=true&bg_color=0D1117&title_color=56A1F7&text_color=C9D1D9&icon_color=F9826C&hide_border=true" />
     <img alt="gtkacz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtkacz&langs_count=6&layout=compact&bg_color=0D1117&title_color=56A1F7&text_color=C9D1D9&icon_color=F9826C&hide_border=true&hide=jupyter%20notebook" />
-  <br/> -->
-  <img alt="gtkacz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gtkacz&show_icons=true&count_private=true&bg_color=0D1117&title_color=56A1F7&text_color=C9D1D9&icon_color=F9826C&hide_border=true" />
-  <img alt="gtkacz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtkacz&langs_count=6&layout=compact&bg_color=0D1117&title_color=56A1F7&text_color=C9D1D9&icon_color=F9826C&hide_border=true" />
-  <b>Note:</b> Top languages is only a metric of the languages on my personal repos and doesn't reflect experience or skill level.
-</details>
+  <br/>
+</details> -->
 
-<img alt="gtkacz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=gtkacz&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+<p align="center">
+ <img alt="gtkacz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gtkacz&show_icons=true&count_private=true&bg_color=0D1117&title_color=56A1F7&text_color=C9D1D9&icon_color=F9826C&hide_border=true" />
+ <img alt="gtkacz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtkacz&langs_count=6&layout=compact&bg_color=0D1117&title_color=56A1F7&text_color=C9D1D9&icon_color=F9826C&hide_border=true" />
+  <small><b>Note:</b> Top languages is only a metric of the languages on my personal repos and doesn't reflect experience or skill level.</small>
+
+ [![GitHub Streak](https://streak-stats.demolab.com?user=gtkacz&theme=github-dark-dimmed&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+</p>
+
+
