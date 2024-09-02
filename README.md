@@ -29,4 +29,11 @@
  <img src="https://github-profile-trophy.vercel.app/?username=gtkacz&theme=darkhub" />
 </div>
 
+## FOSS Contributions
 
+* [temporal-adjusters-py](https://pypi.org/project/temporal-adjuster/)
+* [python-dateutil](https://pypi.org/project/python-dateutil/)
+* [brutils](https://pypi.org/project/brutils/)
+* [Box](https://pypi.org/project/Box/)
+* [python-telegram-bot](https://pypi.org/project/python-telegram-bot/)
+* [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
