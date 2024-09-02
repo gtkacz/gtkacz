@@ -38,6 +38,6 @@
   <li><img alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20"><a href="https://pypi.org/project/brutils/">brutils</a></li>
   <li><img alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20"><a href="https://pypi.org/project/Box/">Box</a></li>
   <li><img alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20"><a href="https://pypi.org/project/python-telegram-bot/">python-telegram-bot</a></li>
-  <li><img alt="CSS" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20"><a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a></li>
+  <li><img alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20"><a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a></li>
 </ul>
 </details>
