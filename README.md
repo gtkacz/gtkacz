@@ -30,7 +30,7 @@
 </div>
 
 <h2>FOSS Contributions</h2>
-<details align="center">
+<details>
 <ul>
   <li><img alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20"><a href="https://pypi.org/project/temporal-adjuster/">temporal-adjusters-py</a></li>
   <li><img alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20"><a href="https://pypi.org/project/python-dateutil/">python-dateutil</a></li>
