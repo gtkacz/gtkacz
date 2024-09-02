@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/gtkacz/"><img alt="My LinkedIn" src="https://img.shields.io/badge/-gabrieltkacz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gtkacz//" /></a>
 </p>
 
-## GitHub Stats
+<h2>GitHub Stats</h2>
 
 <!-- <details align="center"> 
   <summary>💻 GitHub Profile Stats</summary>
@@ -29,11 +29,13 @@
  <img src="https://github-profile-trophy.vercel.app/?username=gtkacz&theme=darkhub" />
 </div>
 
-## FOSS Contributions
+<h2>FOSS Contributions</h2>
+<ul>
+  <li><a href="https://pypi.org/project/temporal-adjuster/">temporal-adjusters-py</a></li>
+  <li><a href="https://pypi.org/project/python-dateutil/">python-dateutil</a></li>
+  <li><a href="https://pypi.org/project/brutils/">brutils</a></li>
+  <li><a href="https://pypi.org/project/Box/">Box</a></li>
+  <li><a href="https://pypi.org/project/python-telegram-bot/">python-telegram-bot</a></li>
+  <li><a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a></li>
+</ul>
 
-* [temporal-adjusters-py](https://pypi.org/project/temporal-adjuster/)
-* [python-dateutil](https://pypi.org/project/python-dateutil/)
-* [brutils](https://pypi.org/project/brutils/)
-* [Box](https://pypi.org/project/Box/)
-* [python-telegram-bot](https://pypi.org/project/python-telegram-bot/)
-* [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
