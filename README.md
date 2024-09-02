@@ -30,12 +30,13 @@
 </div>
 
 <h2>FOSS Contributions</h2>
+<details align="center">
 <ul>
   <li><img alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20"><a href="https://pypi.org/project/temporal-adjuster/">temporal-adjusters-py</a></li>
   <li><img alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20"><a href="https://pypi.org/project/python-dateutil/">python-dateutil</a></li>
   <li><img alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20"><a href="https://pypi.org/project/brutils/">brutils</a></li>
   <li><img alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20"><a href="https://pypi.org/project/Box/">Box</a></li>
   <li><img alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20"><a href="https://pypi.org/project/python-telegram-bot/">python-telegram-bot</a></li>
-  <li><img alt="CSS" src="[https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg](https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg)" width="20"><a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a></li>
+  <li><img alt="CSS" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20"><a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a></li>
 </ul>
-
+</details>
