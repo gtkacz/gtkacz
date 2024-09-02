@@ -1,5 +1,5 @@
 <p align="center">
- <h2 align="center"> Hi, I'm Gabriel Mitelman Tkacz! <img src="https://media.giphy.com/media/SuZY20qLNE3Hq/giphy.gif" width="50"></h2>
+ <h1 align="center"> Hi, I'm Gabriel Mitelman Tkacz! <img src="https://media.giphy.com/media/SuZY20qLNE3Hq/giphy.gif" width="50"></h1>
  <p align="center"><em>Software Engineer at FlxPoint.</em></p>
  <p align="center"><em>Master's student at Mackenzie University.</em></p>
 </p>
@@ -31,7 +31,7 @@
 
 <h2>FOSS Contributions</h2>
 <ul>
-  <li><a href="https://pypi.org/project/temporal-adjuster/">temporal-adjusters-py</a></li>
+  <li><img alt="Python" src="https://github.com/devicons/devicon/raw/master/icons/python/python-original-wordmark.svg"><a href="https://pypi.org/project/temporal-adjuster/">temporal-adjusters-py</a></li>
   <li><a href="https://pypi.org/project/python-dateutil/">python-dateutil</a></li>
   <li><a href="https://pypi.org/project/brutils/">brutils</a></li>
   <li><a href="https://pypi.org/project/Box/">Box</a></li>
