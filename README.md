@@ -26,7 +26,8 @@
 
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gtkacz&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a> 
  
- <img src="https://github-profile-trophy.vercel.app/?username=gtkacz&theme=darkhub" />
+ <img src="https://github-profile-trophy.vercel.app/?username=gtkacz&theme=darkhub" alt="GitHub Trophies" />
+ 
 </div>
 
 <h2>FOSS Contributions</h2>
