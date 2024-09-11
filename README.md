@@ -2,6 +2,7 @@
  <h1 align="center"> Hi, I'm Gabriel Mitelman Tkacz! <img src="https://media.giphy.com/media/SuZY20qLNE3Hq/giphy.gif" width="50"></h1>
  <p align="center"><em>Software Engineer at FlxPoint.</em></p>
  <p align="center"><em>Master's student at Mackenzie University.</em></p>
+ <p align="center">IEEE and SBC Member</p>
 </p>
 
 <p align="center">
