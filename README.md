@@ -9,10 +9,6 @@
 <a href="https://www.linkedin.com/in/gtkacz/"><img alt="My LinkedIn" src="https://img.shields.io/badge/-gabrieltkacz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gtkacz//" /></a>
 </p>
 
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
-
 <h2>GitHub Stats</h2>
 
 <!-- <details align="center"> 
@@ -24,6 +20,8 @@
 </details> -->
 
 <div align="center">
+ <img src="/github-metrics.svg" alt="Metrics">
+ <br/>
  <img alt="gtkacz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gtkacz&show_icons=true&count_private=true&bg_color=0D1117&title_color=56A1F7&text_color=C9D1D9&icon_color=F9826C&hide_border=true" />
  <img alt="gtkacz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtkacz&langs_count=6&layout=compact&bg_color=0D1117&title_color=56A1F7&text_color=C9D1D9&icon_color=F9826C&hide_border=true" /> 
  
