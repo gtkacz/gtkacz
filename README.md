@@ -9,6 +9,10 @@
 <a href="https://www.linkedin.com/in/gtkacz/"><img alt="My LinkedIn" src="https://img.shields.io/badge/-gabrieltkacz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gtkacz//" /></a>
 </p>
 
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
+
 <h2>GitHub Stats</h2>
 
 <!-- <details align="center"> 
