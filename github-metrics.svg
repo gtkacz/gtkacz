@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    44 views in last two weeks
+                                    43 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -2830,7 +2830,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>inducer/pudb</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Full-screen console debugger for Python</div>
@@ -3762,7 +3762,7 @@ If the ID is positive, append the product ID to the end of the cart, if the ID i
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 155k out of 144m users</span>
+                                    <span class="gh">ranked 155k out of 145m users</span>
                                 </div>
                                 <div class="text">Published 113 public repositories</div>
                             </div>
@@ -4022,7 +4022,7 @@ If the ID is positive, append the product ID to the end of the cart, if the ID i
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 627k out of 144m users</span>
+                                    <span class="gh">ranked 627k out of 145m users</span>
                                 </div>
                                 <div class="text">Followed by 24 users</div>
                             </div>
@@ -4060,7 +4060,7 @@ If the ID is positive, append the product ID to the end of the cart, if the ID i
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.30m out of 215m repositories</span>
+                                    <span class="gh">ranked 3.30m out of 217m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -4106,7 +4106,7 @@ If the ID is positive, append the product ID to the end of the cart, if the ID i
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.40m out of 215m repositories</span>
+                                    <span class="gh">ranked 5.40m out of 217m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -4284,7 +4284,7 @@ If the ID is positive, append the product ID to the end of the cart, if the ID i
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Oct 2024, 00:28:38 (timezone America/Sao_Paulo) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 2 Oct 2024, 01:28:08 (timezone America/Sao_Paulo) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
