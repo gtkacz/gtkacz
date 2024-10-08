@@ -3957,7 +3957,7 @@ I've tried insatiating the viewset B inside of A and then calling the get method
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 3.31m out of 216m repositories</span>
+                                    <span class="gh">ranked 3.31m out of 206m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 5 stars</div>
                             </div>
@@ -4135,7 +4135,7 @@ I've tried insatiating the viewset B inside of A and then calling the get method
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Oct 2024, 05:30:32 (timezone America/Sao_Paulo) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 8 Oct 2024, 06:25:14 (timezone America/Sao_Paulo) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
