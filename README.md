@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/gtkacz/"><img alt="My LinkedIn" src="https://raw.githubusercontent.com/gtkacz/extra-shieldsio-badges/refs/heads/main/assets/shields/linkedin.svg" /></a>
- <a href="https://orcid.org/0009-0004-3619-4561"><img alt="My ORCID" src="https://raw.githubusercontent.com/gtkacz/extra-shieldsio-badges/refs/heads/main/assets/shields/orcid.svg" /></a>
+<a href="https://www.linkedin.com/in/gtkacz/"><img alt="My LinkedIn" src="https://raw.githubusercontent.com/gtkacz/extra-shieldsio-badges/refs/heads/main/assets/shields/true_flat/linkedin-blue.svg" /></a>
+ <a href="https://orcid.org/0009-0004-3619-4561"><img alt="My ORCID" src="https://raw.githubusercontent.com/gtkacz/extra-shieldsio-badges/refs/heads/main/assets/shields/true_flat/orcid.svg" /></a>
 </p>
 
 <h2>GitHub Stats</h2>
