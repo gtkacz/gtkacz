@@ -37,10 +37,10 @@
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gtkacz&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a> 
  
  <img src="https://github-profile-trophy.vercel.app/?username=gtkacz&theme=darkhub" alt="GitHub Trophies" />
+
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=gtkacz&theme=github-dark&bg_color=0D1117&title_color=c7d5e0&text_color=c7d5e0&icon_color=c7d5e0&hide_border=true" width="100%"/>
  
 </div>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gtkacz&theme=github-dark&bg_color=0D1117&title_color=c7d5e0&text_color=c7d5e0&icon_color=c7d5e0&hide_border=true" width="100%"/>
 
 <h2>FOSS Contributions</h2>
 <details>
@@ -60,3 +60,8 @@
   <li><img alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20"><a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a></li>
 </ul>
 </details>
+
+<div align="center">
+ <hr>
+ <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github" />
+</div>
