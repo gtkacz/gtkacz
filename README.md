@@ -1,8 +1,9 @@
 <p align="center">
- <h1 align="center"> Hi, I'm Gabriel Mitelman Tkacz! <img src="https://media.giphy.com/media/SuZY20qLNE3Hq/giphy.gif" width="50"></h1>
+ <h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=56A1F7&center=true&vCenter=true&width=500&lines=Hello+There!;I'm+Gabriel+Mitelman+Tkacz." alt="Typing SVG" /></a>
+ </h1>
  <p align="center"><em>Software Engineer at FlxPoint.</em></p>
- <p align="center"><em>Master's student at Mackenzie University.</em></p>
- <p align="center">IEEE and SBC Member</p>
+ <p align="center"><em>Master's student.</em></p>
 </p>
 
 <p align="center">
@@ -17,8 +18,8 @@
 <!-- <details align="center"> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/ align="center">
-    <img alt="gtkacz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gtkacz&show_icons=true&count_private=true&bg_color=0D1117&title_color=56A1F7&text_color=C9D1D9&icon_color=F9826C&hide_border=true" />
-    <img alt="gtkacz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtkacz&langs_count=6&layout=compact&bg_color=0D1117&title_color=56A1F7&text_color=C9D1D9&icon_color=F9826C&hide_border=true&hide=jupyter%20notebook" />
+    <img alt="gtkacz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gtkacz&show_icons=true&count_private=true&bg_color=0D1117&title_color=56A1F7&text_color=c7d5e0&icon_color=F9826C&hide_border=true" />
+    <img alt="gtkacz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtkacz&langs_count=6&layout=compact&bg_color=0D1117&title_color=56A1F7&text_color=c7d5e0&icon_color=F9826C&hide_border=true&hide=jupyter%20notebook" />
   <br/>
 </details> -->
 
@@ -28,8 +29,8 @@
   <img src="/github-metrics.svg" alt="Metrics">
  </details> -->
  <br/>
- <img alt="gtkacz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gtkacz&show_icons=true&count_private=true&bg_color=0D1117&title_color=56A1F7&text_color=C9D1D9&icon_color=F9826C&hide_border=true" />
- <img alt="gtkacz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtkacz&langs_count=6&layout=compact&bg_color=0D1117&title_color=56A1F7&text_color=C9D1D9&icon_color=F9826C&hide_border=true" /> 
+ <img alt="gtkacz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gtkacz&show_icons=true&count_private=true&bg_color=0D1117&title_color=56A1F7&text_color=c7d5e0&icon_color=F9826C&hide_border=true" />
+ <img alt="gtkacz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtkacz&langs_count=6&layout=compact&bg_color=0D1117&title_color=56A1F7&text_color=c7d5e0&icon_color=F9826C&hide_border=true" /> 
  
  <small align="center"><b>Note:</b> Top languages is only a metric of the languages on my personal repos and doesn't reflect experience or skill level.</small>
 
@@ -38,6 +39,8 @@
  <img src="https://github-profile-trophy.vercel.app/?username=gtkacz&theme=darkhub" alt="GitHub Trophies" />
  
 </div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gtkacz&theme=github-dark&bg_color=0D1117&title_color=c7d5e0&text_color=c7d5e0&icon_color=c7d5e0&hide_border=true" width="100%"/>
 
 <h2>FOSS Contributions</h2>
 <details>
