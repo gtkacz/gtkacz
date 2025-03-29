@@ -34,7 +34,7 @@
  
  <small align="center"><b>Note:</b> Top languages is only a metric of the languages on my personal repos and doesn't reflect experience or skill level.</small>
 
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gtkacz&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a> 
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=gtkacz&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sat%2CSun" alt="GitHub Streak" /></a> 
  
  <img src="https://github-profile-trophy.vercel.app/?username=gtkacz&theme=darkhub" alt="GitHub Trophies" />
 
