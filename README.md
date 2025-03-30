@@ -63,5 +63,5 @@
 
 <div align="center">
  <hr>
- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" />
+ <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github" />
 </div>
