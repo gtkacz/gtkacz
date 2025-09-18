@@ -9,8 +9,9 @@
 <p align="center">
  <a href="https://www.linkedin.com/in/gtkacz/"><img alt="My LinkedIn" src="https://raw.githubusercontent.com/gtkacz/extra-shieldsio-badges/refs/heads/main/assets/shields/flat/linkedin.svg" /></a>
  <a href="https://orcid.org/0009-0004-3619-4561"><img alt="My ORCID" src="https://raw.githubusercontent.com/gtkacz/extra-shieldsio-badges/refs/heads/main/assets/shields/flat/orcid-logo.svg" /></a>
- <a href="./media/ieee.pdf"><img alt="My IEEE Membership" src="https://raw.githubusercontent.com/gtkacz/extra-shieldsio-badges/refs/heads/main/assets/shields/flat/ieee-white.svg" /></a>
- <a href="./media/sbc.pdf"><img alt="My SBC Membership" src="https://raw.githubusercontent.com/gtkacz/extra-shieldsio-badges/refs/heads/main/assets/shields/flat/sbc.svg" /></a>
+ <a href="[https://orcid.org/0009-0004-3619-4561](http://lattes.cnpq.br/9398342098329065)"><img alt="My Lattes" src="https://raw.githubusercontent.com/gtkacz/extra-shieldsio-badges/refs/heads/main/assets/shields/flat/lattes-white.svg" /></a>
+<!--  <a href="./media/ieee.pdf"><img alt="My IEEE Membership" src="https://raw.githubusercontent.com/gtkacz/extra-shieldsio-badges/refs/heads/main/assets/shields/flat/ieee-white.svg" /></a>
+ <a href="./media/sbc.pdf"><img alt="My SBC Membership" src="https://raw.githubusercontent.com/gtkacz/extra-shieldsio-badges/refs/heads/main/assets/shields/flat/sbc.svg" /></a> -->
 </p>
 
 <h2>GitHub Stats</h2>
