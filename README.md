@@ -52,6 +52,8 @@
   <li><img alt="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="20"><a href="https://github.com/gtkacz/pyanalyze-action">pyanalyze-action</a></li>
   <li><img alt="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="20"><a href="https://github.com/gtkacz/vulture-action">vulture-action</a></li>
   <li><img alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20"><a href="https://pypi.org/project/djangorestframework/">django-rest-framework</a></li>
+  <li><img alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20"><a href="https://pypi.org/project/more-itertools/">more-itertools</a></li>
+  <li><img alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20"><a href="https://pypi.org/project/whenever/">whenever</a></li>
   <li><img alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20"><a href="https://pypi.org/project/python-dateutil/">python-dateutil</a></li>
   <li><img alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20"><a href="https://pypi.org/project/openbb/">OpenBB</a></li>
   <li><img alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20"><a href="https://pypi.org/project/brutils/">brutils</a></li>
