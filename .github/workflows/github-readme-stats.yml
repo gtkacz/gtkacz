@@ -18,15 +18,16 @@ jobs:
       - name: Generate GitHub Stats
         uses: stats-organization/github-readme-stats-action@v1.1.0
         with:
-          username: ${{ github.repository_owner }}
-          show_icons: true
-          count_private: true
-          bg_color: '0D1117'
-          title_color: '56A1F7'
-          text_color: 'c7d5e0'
-          icon_color: 'F9826C'
-          hide_border: true
-          output_dir: github-stats
+          options:
+            username: ${{ github.repository_owner }}
+            show_icons: true
+            count_private: true
+            bg_color: '0D1117'
+            title_color: '56A1F7'
+            text_color: 'c7d5e0'
+            icon_color: 'F9826C'
+            hide_border: true
+            output_dir: github-stats
 
       - name: Commit and push changes
         run: |
