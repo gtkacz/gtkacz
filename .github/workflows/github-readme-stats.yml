@@ -1,0 +1,37 @@
+name: Generate GitHub Stats
+
+on:
+  schedule:
+    # Run daily at 12 AM UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate GitHub Stats
+        uses: github-readme-stats-action/github-readme-stats-action@main
+        with:
+          username: ${{ github.repository_owner }}
+          show_icons: true
+          count_private: true
+          bg_color: '0D1117'
+          title_color: '56A1F7'
+          text_color: 'c7d5e0'
+          icon_color: 'F9826C'
+          hide_border: true
+          output_dir: github-stats
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add github-stats/
+          git commit -m "chore: update github stats" || exit 0
+          git push

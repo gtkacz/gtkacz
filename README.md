@@ -16,22 +16,10 @@
 
 <h2>GitHub Stats</h2>
 
-<!-- <details align="center"> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/ align="center">
-    <img alt="gtkacz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gtkacz&show_icons=true&count_private=true&bg_color=0D1117&title_color=56A1F7&text_color=c7d5e0&icon_color=F9826C&hide_border=true" />
-    <img alt="gtkacz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtkacz&langs_count=6&layout=compact&bg_color=0D1117&title_color=56A1F7&text_color=c7d5e0&icon_color=F9826C&hide_border=true&hide=jupyter%20notebook" />
-  <br/>
-</details> -->
-
 <div align="center">
-<!--  <details align="center"> 
-  <summary>Metrics</summary>
-  <img src="/github-metrics.svg" alt="Metrics">
- </details> -->
  <br/>
- <img alt="gtkacz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gtkacz&show_icons=true&count_private=true&bg_color=0D1117&title_color=56A1F7&text_color=c7d5e0&icon_color=F9826C&hide_border=true" />
- <img alt="gtkacz's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtkacz&langs_count=6&layout=compact&bg_color=0D1117&title_color=56A1F7&text_color=c7d5e0&icon_color=F9826C&hide_border=true&hide=jupyter%20notebook" /> 
+ <img alt="gtkacz's Github Stats" src="github-stats/github-stats.svg" />
+ <img alt="gtkacz's Top Languages" src="github-stats/top-langs.svg" /> 
  <img alt="gtkacz's Profile Views" src="https://komarev.com/ghpvc/?username=gtkacz" /> 
  
  <small align="center"><b>Note:</b> Top languages is only a metric of the languages on my personal repos and doesn't reflect experience or skill level.</small>
