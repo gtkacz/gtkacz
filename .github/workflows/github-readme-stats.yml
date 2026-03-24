@@ -24,10 +24,12 @@ jobs:
           token: ${{ secrets.PAT_1 }}
 
       - name: Generate Top Languages
+        env:
+          PAT_1: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         uses: stats-organization/github-readme-stats-action@v1.1.0
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&langs_count=6&layout=compact&bg_color=0D1117&title_color=56A1F7&text_color=c7d5e0&icon_color=F9826C&hide_border=true&size_weight=0.5&count_weight=0.5&hide=lua,html,css,scss
+          options: username=${{ github.repository_owner }}&langs_count=6&layout=compact&bg_color=0D1117&title_color=56A1F7&text_color=c7d5e0&icon_color=F9826C&hide_border=true&size_weight=0.5&count_weight=0.5&hide=lua,html,css,scss&count_private=true
           path: github-stats/top-langs.svg
           token: ${{ secrets.PAT_1 }}
 
