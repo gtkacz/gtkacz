@@ -2,8 +2,8 @@
  <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Gidole&size=30&pause=1000&center=true&vCenter=true&width=500&lines=Hello+There!;I'm+Gabriel+Mitelman+Tkacz;Software+Engineer;Full+Stack+Developer;AI+Researcher;FOSS+Contributor" alt="Typing SVG" /></a>
  </h1>
- <p align="center"><em>Software Engineer at FlxPoint.</em></p>
- <p align="center"><em>Master's student.</em></p>
+ <p align="center"><em>Software Engineer at FlxPoint</em></p>
+ <p align="center"><em>Electrical Engineering Master's candidate</em></p>
 </p>
 
 <p align="center">
