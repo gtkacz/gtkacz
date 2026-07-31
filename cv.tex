@@ -1,0 +1,199 @@
+%-------------------------
+% CV for Northeastern University Faculty in Latex
+% Author : Zoe Kearney
+% Based off of: https://www.overleaf.com/latex/templates/coles-resume-template/qhpynjcvjpcj
+% Follows: https://theprofessorisin.com/2016/08/19/dr-karens-rules-of-the-academic-cv/
+% License : MIT
+%------------------------
+
+% Document class and font size
+\documentclass[a4paper,9pt]{extarticle}
+
+% Packages
+\usepackage[utf8]{inputenc} % For input encoding
+\usepackage{geometry} % For page margins
+\geometry{a4paper, margin=0.4in} % Set paper size and margins
+\usepackage{titlesec} % For section title formatting
+\usepackage{enumitem} % For itemized list formatting
+\usepackage{hyperref} % For hyperlinks
+
+% Formatting
+\setlist{noitemsep} % Removes item separation
+\titleformat{\section}{\large\bfseries}{\thesection}{1em}{}[\titlerule] % Section title format
+\titlespacing*{\section}{0pt}{\baselineskip}{\baselineskip} % Section title spacing
+
+% Begin document
+\begin{document}
+
+% Disable page numbers
+\pagestyle{empty}
+
+% Header
+\begin{center}
+\textbf{\Large GABRIEL MITELMAN TKACZ }\\[3pt] % Name
+% \textbf{Curriculum Vitae}\\[1pt] % CV
+São Paulo, SP, Brazil | \href{mailto:gabriel@tkacz.dev.br}{gabriel@tkacz.dev.br} | \href{tel:+5511998355159}{+5511998355159} | \href{https://www.tkacz.dev.br/}{Website} | \href{https://www.linkedin.com/in/gtkacz/}{LinkedIn} | \href{https://github.com/gtkacz}{GitHub} % Contact info
+\end{center}
+
+%------------------------
+
+% Education Section
+\section*{EDUCATION}
+
+\noindent
+\textbf{Electrical Engineering and Computing} \\
+2026-2027 \\
+\textit{Mackenzie Presbyterian University, School of Engineering} \\
+Master's degree \\
+% Maecenas ultricies augue a turpis viverra iaculis. Fusce a lorem est. Phasellus a metus dignissim, commodo eros eget, tempor ipsum. Pellentesque vel posuere ante, vitae dignissim ligula.
+
+\noindent
+\textbf{Computer \& Information Systems} \\
+2022-2024 \\
+\textit{Mackenzie Presbyterian University, Faculty of Computing and Informatics} \\
+Bachelor's degree \\
+% Maecenas ultricies augue a turpis viverra iaculis. Fusce a lorem est. Phasellus a metus dignissim, commodo eros eget, tempor ipsum. Pellentesque vel posuere ante, vitae dignissim ligula.
+
+\noindent
+\textbf{Computer Systems Analysis and Development} \\
+2022-2024 \\
+\textit{Mackenzie Presbyterian University, Faculty of Computing and Informatics} \\
+Associate's degree
+% Maecenas ultricies augue a turpis viverra iaculis. Fusce a lorem est. Phasellus a metus dignissim, commodo eros eget, tempor ipsum. Pellentesque vel posuere ante, vitae dignissim ligula. \\
+
+% \noindent
+% \textbf{Computer Engineering} \\
+% 2019-2021 (Incomplete) \\
+% \textit{Insper Research Institute} \\
+% Bachelor's degree \\
+% Maecenas ultricies augue a turpis viverra iaculis. Fusce a lorem est. Phasellus a metus dignissim, commodo eros eget, tempor ipsum. Pellentesque vel posuere ante, vitae dignissim ligula. \\
+
+%------------------------
+
+% Employment Section
+\section*{PROFESSIONAL EXPERIENCE}
+
+\noindent
+\textbf{Full Stack Software Engineer} \\
+2024--Present \\
+\textit{FlxPoint -- Jacksonville, FL, USA (Remote)}
+\begin{itemize}[leftmargin=*]
+\item Build and maintain core features of FlxPoint's distributed order and inventory management SaaS platform, enabling retailers to automate multi-supplier, multi-channel eCommerce operations at scale.
+\item Develop and harden public REST APIs used by customers and partners to integrate storefronts, ERPs, and 3PLs, focusing on reliability, observability, and backward compatibility.
+\item Build and productionize machine learning models that classify and normalize vendor product catalogs, reducing manual work in mapping, enrichment, and listing to marketplaces.
+\item Implement an in-app support chatbot powered by RAG and LLMs, integrating product and documentation knowledge bases to reduce onboarding time and first-response load on support.
+\item Collaborate closely with product, solutions engineering, and customer success to prioritize work that directly improves merchant automation, error reduction, and revenue throughput. \\
+\end{itemize}
+
+\noindent
+\textbf{Software Engineer II} \\
+2024--2024 \\
+\textit{Libra Energia -- São Paulo, SP, Brazil}
+\begin{itemize}[leftmargin=*]
+\item Developed and maintained internal tools that support energy trading and consulting in Brazil's free energy market (ACL), including risk curve generators, pricing calculators, and management-facing web portals.
+\item Implemented quantitative models for hydric and price forecasting, integrating time-series data, regulatory inputs, and market scenarios to support trading and contract decisions.
+\item Led the initiative to containerize legacy and greenfield applications using Docker and CI/CD pipelines, improving environment parity, deployment speed, and operational reliability. \\
+\end{itemize}
+
+\noindent
+\textbf{Software Engineer} \\
+2022--2024 \\
+\textit{Giant Steps Capital -- São Paulo, SP, Brazil}
+\begin{itemize}[leftmargin=*]
+\item Built and maintained post-trade systems for Latin America's largest quantitative asset manager, covering trade enrichment, reconciliation, settlement, and automated billing across multiple brokers and custodians.
+\item Designed and implemented messaging and integration services for global exchanges and counterparties, handling high volumes of sensitive financial data with strict reliability and latency requirements.
+\item Developed data engineering pipelines in Python using Kafka, Airflow, and PostgreSQL to consolidate and validate trading, market, and reference data for downstream risk, P\&L, and regulatory reporting.
+\item Created internal web applications and dashboards with Django, Django REST Framework, Graphene, and Vue.js/Vuetify to give operations and risk teams real-time visibility into post-trade workflows.
+\item Owned the end-to-end lifecycle of several systems (requirements, architecture, implementation, testing, deployment, and monitoring), interacting directly with trading, risk, and commercial teams. \\
+\end{itemize}
+
+\noindent
+\textbf{Junior Full Stack Developer} \\
+2022--2022 \\
+\textit{scandiweb -- Riga, Latvia (Remote)}
+\begin{itemize}[leftmargin=*]
+\item Implemented features and bug fixes for international eCommerce stores built on Magento and ScandiPWA, improving catalog, checkout, and content experiences for end users.
+\item Contributed to React/ScandiPWA front-end components and styling, collaborating with designers and senior engineers to deliver responsive and conversion-focused interfaces. \\
+\end{itemize}
+
+%------------------------
+
+% Awards and Honors Section
+\section*{CERTIFICATIONS, AWARDS AND HONORS}
+
+\noindent
+\textbf{AWS Academy Machine Learning Foundations, Cloud Foundations} \\
+Year: 2024 \\
+AWS \\
+% Dollar Amount [Optional] 
+
+\noindent
+\textbf{Red Hat System Administration I, System Administration II} \\
+Year: 2024 \\
+Red Hat \\
+% Dollar Amount [Optional] 
+
+\noindent
+\textbf{Test of English as a Foreign Language (TOEFL)} \\
+Year: 2018 \\
+ETS \\
+% Dollar Amount [Optional] 
+
+\noindent
+\textbf{Cambridge English Certificate of Proficiency in English (CPE)} \\
+Year: 2016 \\
+Cambridge University Press \& Assessment English
+% Dollar Amount [Optional] 
+
+%------------------------
+
+% Extracurricular Experience Section
+\section*{EXTRACURRICULAR EXPERIENCE}
+
+\noindent
+\textbf{Researcher \& Engineering Infrastructure Coordinator} \\
+\textit{Student Academic League of Artificial Intelligence and Data Science, Mackenzie Presbyterian University}
+\begin{itemize}[leftmargin=*]
+    \item Orchestrated robust DevOps pipelines for machine learning model development and deployment.
+    \item Implemented synthetic data generation to create high-quality training material for ML models.
+    \item Established continuous monitoring of model performance to enable early detection of model drift.
+    \item Ensured the long-term effectiveness and accuracy of deployed models through proactive maintenance. \\
+\end{itemize}
+
+\noindent
+\textbf{Research Assistant} \\
+\textit{Centre of Regulation and Democracy, Insper Research Institute}
+\begin{itemize}[leftmargin=*]
+    \item Developed innovative technologies to bridge the gap between computer science and legal research.
+    \item Applied machine learning, NLP, and web scraping techniques to enhance juridical research.
+    \item Streamlined research processes for the Center for Regulation and Democracy through technology.
+\end{itemize}
+
+%------------------------
+
+% Open Source Contributions Section
+\section*{OPEN SOURCE CONTRIBUTIONS}
+
+\noindent \textbf{Creator/Core Maintainer} \textit{smart-commit-rs}, \textit{temporal\_adjusters\_py}, \textit{Gemini Conversation Grouper}, \textit{coverage-pre-commit}, \textit{pynimbar}, \textit{ue4ss\_modmanager}, \textit{sort.me}, \textit{Real NBA Draft History}
+
+\noindent \textbf{Contributor} \textit{Ruff}, \textit{Django REST Framework}, \textit{python-dateutil}, \textit{Box}, \textit{more-itertools}, \textit{python-telegram-bot}, \textit{boltons}, \textit{whenever}, \textit{Sherlock}, \textit{NanoCell}, \textit{Brazilian Utils}
+
+% Professional Skills Section 
+\section*{SKILLS}
+
+\noindent
+\textbf{Python} (Django, Django REST Framework, Graphene Django, Django Channels, FastAPI, Flask, Pandas, PyTorch, vLLM, Keras, TensorFlow, scikit-learn, Celery, Selenium, BeautifulSoup, Tkinter, seaborn, Streamlit, Bokeh, Litestar, peewee, Pydantic, SymPy, HuggingFace, sktime, LangChain, NLTK, spaCy, Kreuzberg, uvicorn, Wagtail, OpenCV, tesseract-ocr, Nuitka, Sphinx, SciPy, Celery) \\
+\textbf{JavaScript/TypeScript} (Node.js, Bun, React, Vue.js, Next.js, Nuxt.js, Astro, Vite, jQuery) \\
+\textbf{Java} (JDBC, JPA, JSP, Springboot, Wildfly, POI, iText, jOOQ, Thymeleaf) \\
+\textbf{PHP} (Magento, ScandiPWA) \\
+\textbf{SQL} (PostgreSQL, MySQL, DuckDB, Microsoft SQL Server, SQLite, H2) \\
+\textbf{NoSQL} (MongoDB, Redis) \\
+\textbf{DevOps} (Git, GitHub Actions, GitLab CI/CD, Travis CI, Docker, Docker Compose, Gunicorn, Unix, GNU Make, Apache Kafka, Apache Airflow, Apache Spark) \\
+\textbf{Site Reliability Engineering} (nginx, DataDog, AWS CloudWatch, AWS X-Ray, Sentry, OpenTelemetry, PostHog) \\
+\textbf{AWS} (S3, RDS, EC2, Elastic Beanstalk, Route 53, CodePipeline, CodeBuild, CloudFront) \\
+\textbf{Data Science} (Mathematical Modelling, Data Analysis, Statistics, Machine Learning, Artificial Intelligence, Fine-Tuning, RAG, Zero-Shot Classification, Cross-Encoder Rerankers, Natural Computing) \\
+\textbf{Agile Methodologies} (TDD, Scrum, Kanban, Lean, XP) \\
+\textbf{Programming Paradigms} (SOLID, GRASP) \\
+
+% End document
+\end{document}
