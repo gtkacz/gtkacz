@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Gabriel Mitelman Tkacz's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 66, Total Commits  (last year) : 3290, Total PRs: 969, Total Issues: 220, Contributed to (last year): 39</desc>
+        <desc id="descId">Total Stars Earned: 66, Total Commits  (last year) : 3319, Total PRs: 969, Total Issues: 220, Contributed to (last year): 39</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 40.715030539916356;
+        stroke-dashoffset: 40.71467697060856;
       }
     }
   
